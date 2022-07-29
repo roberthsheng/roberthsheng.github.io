@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Robert Sheng</title>
+    <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script type="text/javascript" src="script.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <h1><span id='hello'>Hey</span>! <span id='name'>I’m Jusung.</span> </h1>
+  </head>
+  
+  <body>
+    <div id='main'>
+    <hr>
+    <p> Right now I'm racking up my season depression points in <b id="seattle">Seattle, WA</b>. In the nearby town of Twin Peaks, James Hurley once said "It's not really a place its a feeling. Sometimes riding at night, I punch off the headlights and roll the throttle in just rocket blind into the dark." That's basically what I've been doing, literally and figuratively. </p>
+    <p>Occupationally, I routinely set our production databases on fire at <a href='https://figma.com' target='_blank'><b id='figma'>Figma</b></a>.</p>
+    <p>I went to <b id='tamu'><a href="https://tamu.edu">Cowboy School</a></b> and studied CS (cowboy science). I yell at computers right now but I'd rather be tilling fields and herding sheep.</p>
+    <!-- <br> -->
+    <p>Previously I worked on disconnected deployments at <a href='https://palantir.com' target='_blank'><b id='palantir'>Palantir</b></a>, search at <a href='https://figma.com' target='_blank'><b id='figma'>Figma</b></a>, security at <a href='https://instagram.com' target='_blank'><b id='instagram'>Instagram</b></a>, growth at <a href='https://coursera.org' target='_blank'><b id='coursera'>Coursera</b></a>, infrastructure at <a href='https://cadre.com' target='_blank'><b id='cadre'>Cadre</b></a>, engineering effectiveness at <a href='https://improbable.io' target='_blank'><b id='improbable'>Improbable</b></a>, and server performance at <a href='https://microsoft.com' target='_blank'><b id='microsoft'>Microsoft</b></a>. I also did field research to stop elephants 🐘 from running over farm fields at the MIT D-Lab in Seronga, Botswana.</p>
+    <!-- <br> -->
+    <p>I was also previously a <a target='_blank' href='http://fellows.kleinerperkins.com/'><b id='kp'>Kleiner Perkins Engineering Fellow</b></a>, a <a target='_blank' href='http://www.roughdraft.vc/academy'><b id='rdv'>Rough Draft Academy Scholar</b></a>, and a <a target='_blank' href='https://universityinnovationfellows.org/'><b id='uif'>University Innovation Fellow at the Stanford d.school</b></a>.</p>
+    <!-- <br> -->
+    <p>I spend my pastime working on my motorcycle 🏍, reading about history 📚, mentoring fellow first-gen low-income students in tech 🎓, and playing the guitar 🎸. Sometimes I dabble with streetwear and obsess over vaporwave and the 90s.</p>
+    <!-- <br> -->
+    <p>Come say hi— I'm always looking for a ski or hike buddy!</p>
+    <div id='contact-footer'>
+        <a title='Twitter' target='_blank' href='https://twitter.com/ju_sung_lee'><i class="fa fa-twitter" style="font-size:24px"></i></a>
+        <a title='LinkedIn' target='_blank' href='https://linkedin.com/in/jusunglee'><i class="fa fa-linkedin" style="font-size:24px"></i></a>
+        <a title='Email' target='_blank' href='mailto:e.jusunglee@gmail.com'><i class="fa fa-envelope" style="font-size:24px"></i></a>
+        <a title='Resume' target='_blank' href='https://www.dropbox.com/s/prb5i37ec4ar0l5/jusung-lee-resume.pdf?dl=0'><i class="fa fa-file" style="font-size:24px"></i></a>
+    </div>
+  </div>
+  </body>
+
+</html>
