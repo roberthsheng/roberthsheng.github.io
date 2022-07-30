@@ -47,11 +47,15 @@ b {
 }
 
 #boston {
-  color: #6340ff;
+  color: #f540ff;
 }
 
 #avronna {
-    color: #FF7940;
+    color: #1a6c08;
+}
+
+#vanderbilt {
+    color: #b0ab4e;
 }
 
 #hello {
@@ -60,14 +64,22 @@ b {
     opacity: 1;
 }
 
-#instagram {
-    color: #9E00FF;
+#limelightapp {
+    color: #29c750;
 }
 
-#coursera {
-    color: #1480FF;
+#vines {
+    color: #efef32;
 }
 
-#vanderbilt {
-    color: #b0ab4e;
+#threesixty {
+    color: #3dcbfa;
+}
+
+#HMS {
+    color: #c62424;
+}
+
+#BHRC {
+    color: #7967ff;
 }
