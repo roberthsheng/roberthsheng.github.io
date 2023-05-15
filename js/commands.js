@@ -74,7 +74,7 @@ projects = [
 
 wtt = [
     "<br>",
-    'Click ->            <a href="' + wtt + '" target="_blank">What to take' + '</a>',
+    'wtt            <a href="' + wtt + '" target="_blank">What to take' + '</a>',
     "<br>"
 ];
 
