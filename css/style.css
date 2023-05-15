@@ -70,7 +70,7 @@ b {
 
 #liner::before {
     color: #519975;
-    content: "visitor@fkcodes.com:~$";
+    content: "guest@robertterminal:~$";
 }
 
 #liner.password::before {

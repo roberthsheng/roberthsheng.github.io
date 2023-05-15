@@ -4,12 +4,15 @@ var bookshelf = "https://www.goodreads.com/user/show/135356555-robert-sheng";
 var linkedin = "https://www.linkedin.com/in/robert-sheng/";
 var github = "https://github.com/roberthsheng";
 var email = 'mailto:robert.sheng@vanderbilt.edu';
+var wtt = "https://github.com/roberthsheng/roberthsheng.github.io/content/wtt.md";
 
 whois = [
     "<br>",
     "hey, i'm robert<",
     "i study computer science and mathematics at vanderbilt university",
     "my research interests include mathematical deep learning and cyber-physical systems",
+    "i am currently part of a research group studying optimal transport and point cloud learning",
+    "you can find some of the cool classes i've taken with</span> <span class=\"command\">'courses'</span><span class=\"color2\">.</span>",
     "in my free time, i read, bike, and climb",
     "reach out if you want to chat!",
     "<br>"
@@ -17,7 +20,7 @@ whois = [
 
 whoami = [
     "<br>",
-    "The paradox of â€œWho am I?â€ is: we never know, but, we constantly find out.",
+    "The paradox of \'Who am I?\' is: we never know, but, we constantly find out.",
     "<br>"
 ];
 
@@ -35,9 +38,43 @@ secret = [
     "<br>"
 ];
 
+courses = [
+    "<br>",
+    "i'm currently a junior at Vanderbilt University",
+    "i'm pursuing a concurrent bachelors and masters in computer science and honors in mathematics",
+    "if you are a current vanderbilt student deciding on courses and majors, type</span> <span class=\"command\">'wtt'</span><span class=\"color2\">.</span>",
+    " ",
+    "* indicates graduate course",
+    "<br>",
+    "CS 2201 - Data Structures",
+    "CS 2212 - Discrete Structures",
+    "CS 3250 - Algorithms",
+    "CS 3251 - Intermediate Software Design",
+    "CS 3270 = Programming Languages",
+    "CS 3281 - Operating Systems",
+    "CS 4260 - Artificial Intelligence",
+    "CS 4262 - Machine Learning",
+    "CS 5891 - Reinforcement Learning*",
+    "CS 8395 - Deep Representation Learning*",
+
+    "MATH 2500-2501 - Multivariable Calculus and Linear Algebra (Honors)",
+    "MATH 2610 - Ordinary Differential Equations (Honors)",
+    "MATH 2820 - Probability and Mathematical Statistics",
+    "MATH 3100 - Real Analysis",
+    "MATH 3300 - Abstract Algebra",
+    "MATH 3640 - Probability",
+    "MATH 4710 - Graph Theory",
+];
+
 projects = [
     "<br>",
     "Still curating... most projects are offline, on GitHub, or confidential.",
+    "<br>"
+];
+
+wtt = [
+    "<br>",
+    'wtt            <a href="' + wtt + '" target="_blank">What to take' + '</a>',
     "<br>"
 ];
 
