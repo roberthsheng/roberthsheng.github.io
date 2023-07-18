@@ -10,8 +10,7 @@ whois = [
     "<br>",
     "hey, i'm robert<",
     "i study computer science and mathematics at vanderbilt university",
-    "my research interests include mathematical deep learning and cyber-physical systems",
-    "i am currently part of a research group studying optimal transport and point cloud learning",
+    "my research interests include deep learning, compilers, verification, and distributed computing",
     "you can find some of the cool classes i've taken with</span> <span class=\"command\">'courses'</span><span class=\"color2\">.</span>",
     "in my free time, i read, bike, and climb",
     "reach out if you want to chat!",
@@ -54,7 +53,7 @@ courses = [
     "CS 3281 - Operating Systems",
     "CS 4260 - Artificial Intelligence",
     "CS 4262 - Machine Learning",
-    "CS 5891 - Reinforcement Learning*",
+    "CS 8395 - Computational Game Theory*",
     "CS 8395 - Deep Representation Learning*",
 
     "MATH 2500-2501 - Multivariable Calculus and Linear Algebra (Honors)",
@@ -74,7 +73,8 @@ projects = [
 
 wtt = [
     "<br>",
-    'wtt            <a href="' + wtt + '" target="_blank">What to take' + '</a>',
+    // link to wtt.md
+    "wtt          <a href=\"" + wtt + "\" target=\"_blank\">What to Take" + "</a>",
     "<br>"
 ];
 

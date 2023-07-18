@@ -32,7 +32,7 @@ b {
 
 /* Cursor Start */
 .cursor {
-    font-size: 12px;
+    font-size: 10px;
     color: #73ABAD;
     background-color: #73ABAD;
     position: relative;
@@ -70,7 +70,7 @@ b {
 
 #liner::before {
     color: #519975;
-    content: "guest@robertterminal:~$";
+    content: "guest@terminal:~$";
 }
 
 #liner.password::before {
