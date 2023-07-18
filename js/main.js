@@ -154,7 +154,7 @@ function commander(cmd) {
             break;
         case "wtt":
             addLine("opening what to take...", "color2", 0);
-            newTab(wtt);
+            newTab(wtt_url);
             break;
         default:
             addLine("<span class=\"inherit\">command not found. for a list of commands, type <span class=\"command\">'help'</span>.</span>", "error", 100);
