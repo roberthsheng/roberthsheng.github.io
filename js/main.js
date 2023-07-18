@@ -153,7 +153,6 @@ function commander(cmd) {
             newTab(github);
             break;
         case "wtt":
-            addLine("opening what to take...", "color2", 0);
             newTab(wtt_url);
             break;
         default:
