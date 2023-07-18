@@ -4,13 +4,13 @@ var bookshelf = "https://www.goodreads.com/user/show/135356555-robert-sheng";
 var linkedin = "https://www.linkedin.com/in/robert-sheng/";
 var github = "https://github.com/roberthsheng";
 var email = 'mailto:robert.sheng@vanderbilt.edu';
-var wtt = "https://github.com/roberthsheng/roberthsheng.github.io/blob/main/content/wtt.md";
+var wtt = "https://roberthsheng.github.io/roberthsheng.github.io/content/wtt";
 
 whois = [
     "<br>",
     "hey, i'm robert<",
     "i study computer science and mathematics at vanderbilt university",
-    "my research interests include deep learning, compilers, verification, and distributed computing",
+    "my research interests span {deep learning, compilers, verification, distributed computing, game theory, optimization, reinforcement learning}",
     "you can find some of the cool classes i've taken with</span> <span class=\"command\">'courses'</span><span class=\"color2\">.</span>",
     "in my free time, i read, bike, and climb",
     "reach out if you want to chat!",
@@ -73,7 +73,6 @@ projects = [
 
 wtt = [
     "<br>",
-    // link to wtt
     'wtt         <a href="' + wtt + '" target="_blank">wtt/roberthsheng' + "</a>",
     "<br>"
 ];
