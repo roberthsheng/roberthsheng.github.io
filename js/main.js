@@ -112,7 +112,7 @@ function commander(cmd) {
             loopLines(courses, "color2 margin", 80);
             break;
         case "wtt":
-            addLine('Opening wtt... <a href="' + wtt_url + '" target="_blank">wtt/roberthsheng' + "</a>", "color2", 0);
+            addLine("opening wtt...", "color2", 80);
             newTab(wtt_url);
             break;
         case "password":
