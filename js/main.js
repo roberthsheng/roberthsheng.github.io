@@ -112,7 +112,8 @@ function commander(cmd) {
             loopLines(courses, "color2 margin", 80);
             break;
         case "wtt":
-            newTab(wtt);
+            addLine('Opening wtt... <a href="' + wtt_url + '" target="_blank">wtt/roberthsheng' + "</a>", "color2", 0);
+            newTab(wtt_url);
             break;
         case "password":
             addLine("<span class=\"inherit\"> Lol! You're joking, right? You\'re gonna have to try harder than that!ðŸ˜‚</span>", "error", 100);
