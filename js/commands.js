@@ -4,7 +4,7 @@ var bookshelf = "https://www.goodreads.com/user/show/135356555-robert-sheng";
 var linkedin = "https://www.linkedin.com/in/robert-sheng/";
 var github = "https://github.com/roberthsheng";
 var email = 'mailto:robert.sheng@vanderbilt.edu';
-var wtt = "https://roberthsheng.github.io/content/wtt";
+var wtt_url = "https://roberthsheng.github.io/content/wtt";
 
 whois = [
     "<br>",
@@ -73,7 +73,7 @@ projects = [
 
 wtt = [
     "<br>",
-    'wtt         <a href="' + wtt + '" target="_blank">wtt/roberthsheng' + "</a>",
+    'wtt         <a href="' + wtt_url + '" target="_blank">wtt/roberthsheng' + "</a>",
     "<br>"
 ];
 
