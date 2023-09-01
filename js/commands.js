@@ -10,7 +10,8 @@ whois = [
     "<br>",
     "hey, i'm robert<",
     "i study computer science and mathematics at vanderbilt university",
-    "my research interests span {deep learning, compilers, verification, distributed computing, game theory, optimization, reinforcement learning}",
+    "my research interests span {deep learning, compilers, verification,", 
+    "distributed computing, game theory, optimization, reinforcement learning}",
     "you can find some of the cool classes i've taken with</span> <span class=\"command\">'courses'</span><span class=\"color2\">.</span>",
     "in my free time, i read, bike, and climb",
     "reach out if you want to chat!",
@@ -53,6 +54,7 @@ courses = [
     "CS 3281 - Operating Systems",
     "CS 4260 - Artificial Intelligence",
     "CS 4262 - Machine Learning",
+    "CS 5283 - Computer Networks*",
     "CS 8395 - Computational Game Theory*",
     "CS 8395 - Deep Representation Learning*",
 
@@ -61,7 +63,6 @@ courses = [
     "MATH 2820 - Probability and Mathematical Statistics",
     "MATH 3100 - Real Analysis",
     "MATH 3300 - Abstract Algebra",
-    "MATH 3640 - Probability",
     "MATH 4710 - Graph Theory",
 ];
 
